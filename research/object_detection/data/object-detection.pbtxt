@@ -1,8 +1,37 @@
 item {
   id: 1
-  name: 'stamp'
+  name: 'qr'
 }
 item {
   id: 2
-  name: 'qr'
+  name: 'stamp_de'
+}
+item {
+  id: 3
+  name: 'stamp_at'
+}
+item {
+  id: 4
+  name: 'stamp_cz'
+}
+item {
+  id: 5
+  name: 'stamp_es'
+}
+item {
+  id: 6
+  name: 'stamp_fr'
+}
+item {
+  id: 7
+  name: 'stamp_it'
+}
+item {
+  id: 8
+  name: 'stamp_nl'
+}
+item {
+  name: "/m/01g317"
+  id: 9
+  display_name: "person"
 }

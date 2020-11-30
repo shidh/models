@@ -24,6 +24,17 @@ var/
 .installed.cfg
 *.egg
 
+protos/
+data/
+training/
+stamp_graph/
+stamp_graph_all_stamps/
+ssd_mobilenet_v1_coco_2018_01_28/
+test_result/
+
+images/
+test_images/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
